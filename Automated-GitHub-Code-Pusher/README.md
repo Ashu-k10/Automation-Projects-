@@ -115,7 +115,7 @@ cd REPOSITORY
 Copy:
 
 ```text
-github_automation.py
+Sourcecode.py
 ```
 
 into your project directory.
@@ -127,7 +127,7 @@ into your project directory.
 Open:
 
 ```text
-github_automation.py
+Sourcecode.py
 ```
 
 Find:
@@ -157,7 +157,7 @@ HH:MM
 Execute:
 
 ```bash
-python github_Sourcecode.py
+python Sourcecode.py
 ```
 
 The program will wait until the configured time.
