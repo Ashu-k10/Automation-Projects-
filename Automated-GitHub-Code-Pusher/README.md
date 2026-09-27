@@ -89,7 +89,7 @@ git remote -v
 Example:
 
 ```text
-origin  https://github.com/username/my-project.git
+origin  https://github.com/Ashu-k10/.git
 ```
 
 ---
@@ -99,7 +99,7 @@ origin  https://github.com/username/my-project.git
 ### Step 1 — Clone your repository
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/Ashu-K10/Automated_Github-Code-Pusher.git
 ```
 
 Move into the project:
@@ -157,7 +157,7 @@ HH:MM
 Execute:
 
 ```bash
-python github_automation.py
+python github_Sourcecode.py
 ```
 
 The program will wait until the configured time.
