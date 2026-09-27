@@ -285,24 +285,7 @@ datetime.now()
         GitHub
 ```
 
----
 
-## 🎯 Future Improvements
-
-Possible improvements include:
-
-- Multiple scheduled push times
-- Custom commit messages
-- Automatic GitHub repository creation
-- Email notifications
-- Discord/Telegram notifications
-- Push failure notifications
-- Automatic retry mechanism
-- Windows Task Scheduler integration
-- Linux/macOS cron integration
-- GitHub Actions integration
-- GUI-based scheduler
-- Configuration through `.env` file
 
 ---
 
